@@ -53,13 +53,6 @@
 
 ---
 
-## 🚀 Filosofia
-
-
-> _"Código não se trata apenas de resolver problemas.
-> Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."_
-
----
 
 
 
