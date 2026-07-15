@@ -45,7 +45,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CassioSilva007&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=CassioSilva007&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioSilva007&layout=compact&theme=tokyonight" />
